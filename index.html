@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SlangSwap - Kerala Slang Translator</title>
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        <header>
+            <h1>SlangSwap 🗣️</h1>
+            <div class="theme-switcher">
+                <label for="dark-mode-toggle">🌙</label>
+                <input type="checkbox" id="dark-mode-toggle">
+            </div>
+        </header>
+
+        <div class="translator-card">
+            <p class="instruction">Enter a slang word and select the districts to translate.</p>
+            
+            <div class="input-wrapper">
+                <input type="text" id="slang-input" placeholder="Enter slang here...">
+            </div>
+
+            <div class="dropdowns">
+                <div class="select-group">
+                    <label for="from-district">From</label>
+                    <select id="from-district">
+                        </select>
+                </div>
+                <div class="select-group">
+                    <label for="to-district">To</label>
+                    <select id="to-district">
+                        </select>
+                </div>
+            </div>
+
+            <div id="result-box">
+                <p id="result-text">Translation will appear here.</p>
+                <button id="speak-button" class="hidden">🔊</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,156 @@
+/* --- Basic Setup & Google Font --- */
+:root {
+    --bg-color-light: #f4f4f9;
+    --card-color-light: #ffffff;
+    --text-color-light: #333;
+    --primary-color: #007bff;
+    --border-color-light: #ddd;
+
+    --bg-color-dark: #121212;
+    --card-color-dark: #1e1e1e;
+    --text-color-dark: #f1f1f1;
+    --border-color-dark: #444;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: var(--bg-color-light);
+    color: var(--text-color-light);
+    transition: background-color 0.3s, color 0.3s;
+}
+
+/* --- Dark Mode Styles --- */
+body.dark-mode {
+    background-color: var(--bg-color-dark);
+    color: var(--text-color-dark);
+}
+
+/* --- Main Container & Header --- */
+.container {
+    width: 90%;
+    max-width: 500px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+header h1 {
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+/* --- Dark Mode Toggle Switch --- */
+.theme-switcher {
+    position: relative;
+    display: inline-block;
+}
+.theme-switcher label {
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+.theme-switcher input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+/* --- Translator Card --- */
+.translator-card {
+    background-color: var(--card-color-light);
+    border-radius: 15px;
+    padding: 30px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    border: 1px solid var(--border-color-light);
+    transition: background-color 0.3s, border-color 0.3s;
+}
+
+body.dark-mode .translator-card {
+    background-color: var(--card-color-dark);
+    border-color: var(--border-color-dark);
+}
+
+.instruction {
+    text-align: center;
+    margin-bottom: 25px;
+    opacity: 0.8;
+}
+
+/* --- Input & Dropdowns --- */
+.input-wrapper input, .select-group select {
+    width: 100%;
+    padding: 12px;
+    border-radius: 8px;
+    border: 1px solid var(--border-color-light);
+    font-family: 'Poppins', sans-serif;
+    font-size: 1rem;
+    margin-bottom: 20px;
+    background: var(--bg-color-light);
+    color: var(--text-color-light);
+}
+body.dark-mode .input-wrapper input, body.dark-mode .select-group select {
+    background: var(--card-color-dark);
+    color: var(--text-color-dark);
+    border-color: var(--border-color-dark);
+}
+
+.dropdowns {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.select-group {
+    width: 100%;
+}
+.select-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: 600;
+}
+
+/* --- Result Box --- */
+#result-box {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: var(--bg-color-light);
+    border-radius: 8px;
+    min-height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+body.dark-mode #result-box {
+    background-color: var(--bg-color-dark);
+}
+
+#result-text {
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+#speak-button {
+    background: none;
+    border: none;
+    font-size: 1.5rem;
+    cursor: pointer;
+    color: var(--primary-color);
+}
+
+.hidden {
+    display: none;
+}

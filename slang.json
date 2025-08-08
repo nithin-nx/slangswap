@@ -1,0 +1,347 @@
+{
+  "Trivandrum": {
+    "kidu": {
+      "Kozhikode": "adipoli",
+      "Ernakulam": "poli sanam",
+      "Thrissur": "thakidu",
+      "Kannur": "vere level",
+      "Idukki": "kollam"
+    },
+    "aliyan": {
+      "Kozhikode": "bava",
+      "Ernakulam": "machane",
+      "Kannur": "chunk",
+      "Thrissur": "bro"
+    },
+    "jaada": {
+      "Ernakulam": "scene",
+      "Kozhikode": "show",
+      "Thrissur": "pattalam",
+      "Kottayam": "vibe"
+    },
+    "enthuva": {
+      "Kozhikode": "entha",
+      "Thrissur": "enthaande",
+      "Kannur": "enthina",
+      "Ernakulam": "entha mwone"
+    },
+    "pani kitti": {
+      "Ernakulam": "scene aayi",
+      "Kozhikode": "pani paali",
+      "Thrissur": "abatham patti",
+      "Kannur": "kaiyyinnu poyi"
+    },
+    "kazhappu": {
+      "Ernakulam": "theppu",
+      "Kozhikode": "panji pokuka",
+      "Thrissur": "chathichu"
+    },
+    "kochu kalla": {
+      "Kozhikode": "kalla",
+      "Malappuram": "kullan",
+      "Ernakulam": "vishamam"
+    },
+    "vayattilayi": {
+      "Kozhikode": "ondavunnu",
+      "Malappuram": "gerbham und",
+      "Kottayam": "vishesham aayi"
+    },
+    "chelapol": {
+      "Kozhikode": "bazappo",
+      "Malappuram": "keyi",
+      "Kannur": "chekkala"
+    },
+    "vatt": {
+        "Ernakulam": "kirukk",
+        "Kozhikode": "olakka",
+        "Thrissur": "praanth"
+    },
+    "thallu": {
+        "Ernakulam": "veekk",
+        "Kozhikode": "beegam",
+        "Kannur": "pottaas"
+    }
+  },
+  "Ernakulam": {
+    "poli sanam": {
+      "Trivandrum": "kidu",
+      "Kozhikode": "adipoli",
+      "Kannur": "vere level",
+      "Idukki": "adutha item"
+    },
+    "machane": {
+      "Trivandrum": "aliyan",
+      "Kozhikode": "chunk",
+      "Malappuram": "bava",
+      "Kottayam": "chetta"
+    },
+    "scene": {
+      "Trivandrum": "jaada",
+      "Kozhikode": "issue",
+      "Thrissur": "vishayam",
+      "Idukki": "prashnam"
+    },
+    "set aakku": {
+      "Trivandrum": "sheriyakku",
+      "Kozhikode": "ok aakku",
+      "Malappuram": "ready aakku",
+      "Kottayam": "thayyarakku"
+    },
+    "theppu": {
+      "Trivandrum": "kazhappu",
+      "Kozhikode": "panji",
+      "Thrissur": "chathichu",
+      "Idukki": " തേപ്പ് (thepp)"
+    },
+    "company": {
+      "Trivandrum": "koottu",
+      "Kozhikode": "sangham",
+      "Thrissur": "gang",
+      "Idukki": "changatham"
+    },
+    "veruppikkal": {
+      "Trivandrum": "boradippikkal",
+      "Kozhikode": "chali",
+      "Kannur": "mushippu",
+      "Kottayam": "shalayam"
+    },
+    "charakku": {
+        "Trivandrum": "sundari",
+        "Kozhikode": "monjathi",
+        "Thrissur": "ashal pennu"
+    },
+    "pani kodu": {
+        "Trivandrum": "pani kodukkuka",
+        "Kozhikode": "ombikkuka",
+        "Kannur": "naashamakki"
+    },
+    "alambu": {
+        "Trivandrum": "vrithikedu",
+        "Kozhikode": "chora",
+        "Thrissur": "akramam"
+    },
+    "pwoli": {
+        "Trivandrum": "kidu",
+        "Kozhikode": "mass"
+    }
+  },
+  "Kozhikode": {
+    "adipoli": {
+      "Trivandrum": "kidu",
+      "Ernakulam": "poli",
+      "Thrissur": "kemam",
+      "Idukki": "super"
+    },
+    "bava": {
+      "Trivandrum": "aliyan",
+      "Ernakulam": "bro",
+      "Malappuram": "monchan",
+      "Kannur": "chunk"
+    },
+    "chali": {
+      "Trivandrum": "boran joke",
+      "Ernakulam": "veruppikkal",
+      "Thrissur": "pottatharam",
+      "Idukki": "chavaru"
+    },
+    "pani paali": {
+      "Trivandrum": "pani kitti",
+      "Ernakulam": "scene aayi",
+      "Thrissur": "abatham patti",
+      "Kottayam": "pettupoyi"
+    },
+    "beegaaran": {
+      "Trivandrum": "aagrahi",
+      "Ernakulam": "kothiyan",
+      "Thrissur": "aarthiyan"
+    },
+    "narakku": {
+      "Trivandrum": "nadakku",
+      "Ernakulam": "poda",
+      "Kasaragod": "jalla"
+    },
+    "vaayadi": {
+      "Trivandrum": "valavala samsaram",
+      "Ernakulam": "thallukolli",
+      "Idukki": "themmadi"
+    },
+    "manth": {
+        "Trivandrum": "mandan",
+        "Ernakulam": "pottan",
+        "Kottayam": "oonth"
+    },
+    "ombikkuka": {
+        "Trivandrum": "pani tharuka",
+        "Ernakulam": "pani kodu"
+    },
+    "mass": {
+        "Trivandrum": "kidu",
+        "Ernakulam": "poli",
+        "Kannur": "vere level"
+    }
+  },
+  "Malappuram": {
+    "kalippu": {
+      "Trivandrum": "kidu",
+      "Kozhikode": "adipoli",
+      "Ernakulam": "poli",
+      "Kannur": "mass"
+    },
+    "monjathi": {
+      "Trivandrum": "sundari",
+      "Ernakulam": "charakku",
+      "Kozhikode": "super pennu",
+      "Kottayam": "nalla piece"
+    },
+    "katha": {
+      "Trivandrum": "samsaarikkuka",
+      "Thrissur": "varthanam",
+      "Kozhikode": "bathukk"
+    },
+    "pathirathe": {
+        "Trivandrum": "athiraville",
+        "Kozhikode": "ravile thanne"
+    },
+    "pinnalla": {
+      "Trivandrum": "athe aano",
+      "Kozhikode": "pinne entha",
+      "Ernakulam": "of course"
+    },
+    "ikka": {
+        "Trivandrum": "chettan",
+        "Ernakulam": "bro"
+    }
+  },
+  "Thrissur": {
+    "thakidu": {
+      "Trivandrum": "kidu",
+      "Ernakulam": "pwoli",
+      "Kozhikode": "adipoli"
+    },
+    "enthaande": {
+      "Trivandrum": "enthuva",
+      "Kozhikode": "entha",
+      "Ernakulam": "entha",
+      "Idukki": "enthelum"
+    },
+    "nikash": {
+      "Trivandrum": "veruthe",
+      "Kozhikode": "chumma"
+    },
+    "naatil poka": {
+      "Trivandrum": "veetil pokaam",
+      "Kozhikode": "veettilekk vidaam"
+    },
+    "ghadi": {
+      "Trivandrum": "samanam",
+      "Kozhikode": "sadhanam",
+      "Ernakulam": "item"
+    },
+    "pattalam": {
+        "Trivandrum": "jaada",
+        "Ernakulam": "show"
+    }
+  },
+  "Kannur": {
+    "vere level": {
+      "Trivandrum": "kollam",
+      "Ernakulam": "kidilam",
+      "Kozhikode": "adipoli",
+      "Idukki": "oru raksha illa"
+    },
+    "chunk": {
+      "Trivandrum": "changayi",
+      "Ernakulam": "machan",
+      "Kozhikode": "bro",
+      "Idukki": "koottukaran"
+    },
+    "mushippu": {
+      "Trivandrum": "ishta kedu",
+      "Ernakulam": "veruppu",
+      "Kozhikode": "chali",
+      "Idukki": "verum patti show"
+    },
+    "ayi": {
+      "Trivandrum": "aano",
+      "Ernakulam": "aa",
+      "Kozhikode": "oh",
+      "Kottayam": "ennu"
+    },
+    "pottaas": {
+        "Trivandrum": "thallu",
+        "Ernakulam": "veekk"
+    }
+  },
+  "Idukki": {
+    "kollam": {
+        "Trivandrum": "kidu",
+        "Ernakulam": "poli",
+        "Kozhikode": "adipoli"
+    },
+    "kaanthari": {
+        "Trivandrum": "viplavakari",
+        "Ernakulam": "adiപൊളി pennu (adipoli pennu)",
+        "Kottayam": "chedathi"
+    },
+    "oru raksha illa": {
+        "Ernakulam": "vere level",
+        "Trivandrum": "kiduve",
+        "Kozhikode": " രക്ഷയില്ലാത്ത (rakshayillatha)"
+    },
+    "kappa": {
+        "Trivandrum": "maracheeni",
+        "Malappuram": "poole",
+        "Kozhikode": "chendan kappa"
+    }
+  },
+  "Kottayam": {
+      "chetta": {
+          "Ernakulam": "bro",
+          "Trivandrum": "chettan",
+          "Kozhikode": "ikka"
+      },
+      "pettupoyi": {
+          "Trivandrum": "pani kitti",
+          "Ernakulam": "scene aayi",
+          "Kozhikode": "pani paali"
+      },
+      "pennumpilla": {
+          "Trivandrum": "penkutti",
+          "Ernakulam": "pennu",
+          "Kozhikode": "penn"
+      },
+      "oonth": {
+          "Trivandrum": "mandan",
+          "Kozhikode": "manth"
+      }
+  },
+  "Kasaragod": {
+    "jalla": {
+        "Kozhikode": "poda",
+        "Trivandrum": "po",
+        "Ernakulam": "vida"
+    },
+    "bappa": {
+        "Kozhikode": "va",
+        "Trivandrum": "vaa",
+        "Ernakulam": "va mone"
+    },
+    "adadentha": {
+        "Trivandrum": "ith entha",
+        "Kozhikode": "ith enthanu"
+    },
+    "badakk": {
+        "Trivandrum": "bakshanam",
+        "Ernakulam": "food",
+        "Kozhikode": "chaayakkadi"
+    },
+    "encha": {
+        "Kozhikode": "enganeyund",
+        "Trivandrum": "sukhamaano"
+    },
+    "undala": {
+        "Kozhikode": "undallo",
+        "Trivandrum": "und"
+    }
+  }
+}
