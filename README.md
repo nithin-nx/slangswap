@@ -25,6 +25,20 @@ Keralites love their slang, but sometimes slang from one district sounds like al
 
 ### The Solution (that nobody asked for)
 A slang translator that instantly converts your local slang into equivalent slang from  other Kerala district — because why not? 😄
+##✨ Key Features
+District-to-District Translation: Translate slang from one Kerala district to all others.
+
+Text-to-Speech (TTS): Hear the correct pronunciation of each slang word with a click.
+
+Fun Audio Cues: Get confirmation with "Machane kitty!" on success and "Illada aliya!" on failure.
+
+Dark Mode: A sleek dark mode for comfortable night-time slang swapping.
+
+Simple & Fast: Built with pure, vanilla JavaScript for a lightweight and speedy experience.
+
+Expandable JSON Database: Powered by a simple JSON file that can be easily updated with new slang.
+
+
 
 ## Technical Details
 ### Technologies/Components Used
@@ -56,26 +70,19 @@ Simply open index.html in your browser.
 ### Project Documentation
 For Software:
 
+📸 Screenshots & Demo
+Light Mode	Dark Mode
+<img src="Screenshot1.png">SlangSwap homepage with input box and district selection
+<img src="Screenshot2.png">Slang translation results showing equivalent slang in other district.
 
-![Screenshot1](Screenshot1.png)
-*SlangSwap homepage with input box and district selection*
+<img src="Screenshot3.png">Audio pronunciation button next to each slang word.
 
-![Screenshot2](Screenshot2.png)
-*Slang translation results showing equivalent slang in other district.*
+Export to Sheets
+🎥 Video Demo
+Check out the screen recording below to see SlangSwap in action!
 
-![Screenshot3](Screenshot3.png)
-*Audio pronunciation button next to each slang word.*
+ <a href="ScreenRecording.mp4">Watch the Demo Video</a>
 
-
-
-
-
-
-
-### Project Demo
-# Video
-[Screen Recording.mp4]
-*Shows typing a slang and instantly getting translations with audio.*
 
 
 ## Team Contributions
