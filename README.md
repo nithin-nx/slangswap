@@ -14,7 +14,11 @@
 
 
 ### Project Description
-SlangSwap – A fun web app that translates slang words from one Kerala district into the slang of another district.
+SlangSwap – A fun web app that translates slang words from one Kerala district into the slang of all other districts, complete with pronunciation and examples.
+Currently, the database contains only a small set of slang words for demo purposes — but it can be expanded in the future to include hundreds more.
+You can check these database entries for testing and verification during development.
+## Link 
+https://nithin-nx.github.io/slangswap/
 
 ### The Problem (that doesn't exist)
 Keralites love their slang, but sometimes slang from one district sounds like alien language to another district.
@@ -53,14 +57,16 @@ Simply open index.html in your browser.
 For Software:
 
 
-![Screenshot1](C:\Users\wwwni\OneDrive\Desktop\slangswap\Screenshot 2025-08-09 030846.png)
+![Screenshot1](Screenshot1.png)
 *SlangSwap homepage with input box and district selection*
 
-![Screenshot2](C:\Users\wwwni\OneDrive\Desktop\slangswap\Screenshot 2025-08-09 030954.png)
+![Screenshot2](Screenshot2.png)
 *Slang translation results showing equivalent slang in other district.*
 
-![Screenshot3](C:\Users\wwwni\OneDrive\Desktop\slangswap\Screenshot 2025-08-09 031154.png)
+![Screenshot3](Screenshot3.png)
 *Audio pronunciation button next to each slang word.*
+
+
 
 
 
@@ -68,7 +74,7 @@ For Software:
 
 ### Project Demo
 # Video
-[C:\Users\wwwni\OneDrive\Desktop\slangswap\Screen Recording 2025-08-09 032726.mp4]
+[Screen Recording.mp4]
 *Shows typing a slang and instantly getting translations with audio.*
 
 
