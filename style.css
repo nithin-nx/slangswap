@@ -154,3 +154,25 @@ body.dark-mode #result-box {
 .hidden {
     display: none;
 }
+
+/* --- Add these styles to your style.css file --- */
+
+#translate-button {
+    width: 100%;
+    padding: 15px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: #fff;
+    background-color: var(--primary-color);
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-top: 10px; /* Add some space above the result box */
+    margin-bottom: 20px;
+    transition: background-color 0.2s;
+}
+
+#translate-button:hover {
+    background-color: #0056b3;
+}
